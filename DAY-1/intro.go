@@ -35,6 +35,7 @@ func main() {
 		marks     float64 = 30.05
 	)
 
+	fmt.Println(n1)
 	var age = 36 // type interface
 
 	// short hand
